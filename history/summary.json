@@ -4,17 +4,19 @@
     "url": "https://qainsights.com",
     "icon": "https://favicons.githubusercontent.com/qainsights.com",
     "slug": "qa-insights",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 687,
-    "timeWeek": 616,
-    "timeMonth": 546,
-    "timeYear": 546,
-    "dailyMinutesDown": {}
+    "time": 530,
+    "timeDay": 389,
+    "timeWeek": 550,
+    "timeMonth": 530,
+    "timeYear": 530,
+    "dailyMinutesDown": {
+      "2022-01-18": 0
+    }
   }
 ]
