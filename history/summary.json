@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/qainsights.com.ico",
     "slug": "qa-insights",
     "status": "down",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 35,
-    "timeWeek": 65,
+    "timeDay": 88,
+    "timeWeek": 64,
     "timeMonth": 86,
-    "timeYear": 99,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   }
 ]
