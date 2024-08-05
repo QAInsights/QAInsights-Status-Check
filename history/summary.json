@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qainsights.com.ico",
     "slug": "qa-insights",
     "status": "down",
-    "uptime": "53.92%",
+    "uptime": "53.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 87,
-    "timeDay": 148,
-    "timeWeek": 96,
-    "timeMonth": 105,
+    "timeDay": 60,
+    "timeWeek": 94,
+    "timeMonth": 104,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2024-08-04": 15,
+      "2024-08-05": 14,
+      "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
@@ -379,8 +380,7 @@
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
-      "2023-08-07": 1440,
-      "2023-08-06": 1440
+      "2023-08-07": 1440
     }
   }
 ]
