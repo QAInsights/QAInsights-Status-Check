@@ -4,15 +4,15 @@
     "url": "https://qainsights.com",
     "icon": "https://icons.duckduckgo.com/ip3/qainsights.com.ico",
     "slug": "qa-insights",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "57.28%",
-    "uptimeWeek": "40.55%",
-    "uptimeMonth": "77.70%",
-    "uptimeYear": "98.14%",
+    "uptimeDay": "58.51%",
+    "uptimeWeek": "40.73%",
+    "uptimeMonth": "77.75%",
+    "uptimeYear": "98.15%",
     "time": 234,
-    "timeDay": 334,
-    "timeWeek": 362,
+    "timeDay": 331,
+    "timeWeek": 361,
     "timeMonth": 350,
     "timeYear": 256,
     "dailyMinutesDown": {
@@ -26,8 +26,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 600,
-      "2025-03-20": 22
+      "2025-03-21": 600
     }
   }
 ]
