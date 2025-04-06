@@ -6,17 +6,17 @@
     "slug": "qa-insights",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "83.34%",
-    "uptimeMonth": "93.27%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "84.79%",
+    "uptimeMonth": "93.22%",
     "uptimeYear": "99.44%",
     "time": 259,
-    "timeDay": 329,
-    "timeWeek": 344,
+    "timeDay": 325,
+    "timeWeek": 347,
     "timeMonth": 352,
-    "timeYear": 276,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2025-04-05": 32,
+      "2025-04-05": 22,
       "2025-04-04": 43,
       "2025-04-03": 42,
       "2025-04-02": 82,
@@ -25,7 +25,7 @@
       "2025-03-30": 698,
       "2025-03-29": 443,
       "2025-03-28": 508,
-      "2025-03-27": 434
+      "2025-03-27": 466
     }
   }
 ]
